@@ -24,6 +24,9 @@ Douglas Tran Sec B21
 * Power Adapter x1
 * Atmel AVRISP mkii x1
 ```
+## Project main file
+[Click here](https://github.com/dtran08/EE120B_Final/blob/master/jukebox/jukebox/main.c)
+This contains all of the code for this project.
 
 ## Images, Video, Sources, Project Description, etc.
 See “ee120b final paper.pdf”
