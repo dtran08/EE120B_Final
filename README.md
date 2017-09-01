@@ -35,5 +35,5 @@ to view all of the code for this project.
 ## Video
 https://www.youtube.com/watch?v=zIkpb3F13rY
 
-## Images, Sources, Project Description, etc.
-[Click here](https://github.com/dtran08/EE120B_Final/blob/master/ee120b%20final%20paper.pdf) to access the lab writeup, where most of the details are located.
+## Project Writeup (contains everything on this repo except the code)
+[Click here](https://github.com/dtran08/EE120B_Final/blob/master/ee120b%20final%20paper.pdf) to access the project writeup, where most of the details are located.
