@@ -29,4 +29,4 @@ Douglas Tran Sec B21
 to view all of the code for this project.
 
 ## Images, Video, Sources, Project Description, etc.
-See “ee120b final paper.pdf”
+[Click here](https://github.com/dtran08/EE120B_Final/blob/master/ee120b%20final%20paper.pdf) to access the lab writeup, where most of the details are located.
