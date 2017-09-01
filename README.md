@@ -2,6 +2,10 @@
 
 Douglas Tran Sec B21
 
+## Description
+This board was designed to output simple or complex songs through square waves generated on a WT-1205 speaker. A welcome menu is displayed on the screen by default (seen in the picture). The user should be able to cycle through the playlist of three songs (represented by the buttons connected to the blue and red wires) and play the song (represented by the button connected to the green wire). Notable connections on the microcontroller are as follows: C;LCD display, A;button inputs, B;speaker, D;LCD-RS and LED displays. When the user navigates to the song and presses the play button, the song will play and the LED lights connected to port D on the microcontroller will turn on. 
+
+
 ## Instructions
 ```
 * Power on the board.
